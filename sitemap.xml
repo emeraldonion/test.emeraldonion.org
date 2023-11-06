@@ -10,6 +10,10 @@
         <loc>https://emeraldonion.org/blog/</loc>
     </url>
     <url>
+        <loc>https://emeraldonion.org/blog/internet-exchange-points-in-the-united-states/</loc>
+        <lastmod>2017-08-13</lastmod>
+    </url>
+    <url>
         <loc>https://emeraldonion.org/categories/</loc>
     </url>
     <url>
@@ -20,6 +24,9 @@
     </url>
     <url>
         <loc>https://emeraldonion.org/legal/</loc>
+    </url>
+    <url>
+        <loc>https://emeraldonion.org/peering/</loc>
     </url>
     <url>
         <loc>https://emeraldonion.org/tags/</loc>
